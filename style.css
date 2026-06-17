@@ -1,0 +1,104 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #fff8dc;
+    margin: 20px;
+}
+
+nav{
+    background-color: green;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+}
+
+nav a:hover{
+    color: yellow;
+}
+
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: orange;
+}
+
+h1 img{
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
+
+h2{
+    display: flex;
+    
+    color: rgb(12, 219, 95);
+}
+
+h2 img{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.mango-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.mango-card{
+    width: 200px;
+    text-align: center;
+    background-color: #fff8dc;
+    padding: 10px;
+    border: 2px solid green;
+    border-radius: 10px;
+}
+
+.mango-card img{
+    width: 180px;
+    height: 140px;
+    border-radius: 10px;
+}
+
+.mango-card h3{
+    color: darkgreen;
+    margin-top: 10px;
+}
+
+.mango-card:hover{
+    transform: scale(1.05);
+}
+
+
+.info{
+    background-color: lightyellow;
+    border: 2px solid green;
+    padding: 20px;
+    margin: 20px;
+}
+
+input,
+textarea{
+    padding: 8px;
+    width: 250px;
+}
+
+button{
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    text-align: center;
+}
+
+button:hover{
+    background-color: darkgreen;
+}
