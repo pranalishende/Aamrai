@@ -1,4 +1,4 @@
-# 🥭 Aamrai - Mango Orchard Website
+# 🥭 Aamrai - Mango Website
 
 Aamrai is a simple and responsive multi-page website created using **HTML** and **CSS**. The website showcases different varieties of mangoes, information about the orchard, and a contact form for visitors.
 
@@ -66,6 +66,7 @@ Aamrai/
     ├── mission.png
     ├── authenticity.png
     └── star.png
+        
 ```
 
 ## 🎨 CSS Features Used
